@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=trafficlight
+Exec=trafficlight
+Icon=trafficlight/trafficlight.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

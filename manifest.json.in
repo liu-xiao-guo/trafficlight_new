@@ -1,0 +1,17 @@
+{
+    "name": "trafficlight_new.liu-xiao-guo",
+    "description": "description of trafficlight_new",
+    "architecture": "@CLICK_ARCH@",
+    "title": "trafficlight_new",
+    "hooks": {
+        "trafficlight": {
+            "apparmor": "trafficlight/trafficlight.apparmor",
+            "desktop":  "trafficlight/trafficlight.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
